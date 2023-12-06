@@ -104,9 +104,9 @@ let result = 0;
 
 
 
-let redCap = 12;
-let greenCap = 13;
-let blueCap = 14;
+const redCap = 12;
+const greenCap = 13;
+const blueCap = 14;
 main()
 
 function main() {
